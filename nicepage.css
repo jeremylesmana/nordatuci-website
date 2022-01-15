@@ -34004,9 +34004,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 79px;
     margin-top: 396px;
     margin-left: auto;
+    width: auto;
+    height: auto;
   }
 
   .u-header .u-text-2 {

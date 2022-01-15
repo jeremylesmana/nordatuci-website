@@ -55,15 +55,16 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
-    margin-right: 28px;
-    margin-left: 181px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 128px;
+    margin-bottom: initial;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -83,12 +84,29 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 713px;
+  }
+
   .u-section-1 .u-text-1 {
     width: 340px;
   }
 
+  .u-section-1 .u-image-1 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 212px;
+    margin-top: 11px;
+    margin-left: auto;
+  }
+
   .u-section-1 .u-group-1 {
-    width: 340px;
+    margin-top: 11px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-3 {
